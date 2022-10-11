@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de1eb27b-cb3c-4b4b-8e28-c44bf4e4b0d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/antlr/antlr/2.7.7/antlr.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/antlr/antlr/2.7.7/antlr.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/aopalliance/aopalliance/1.0/aopalliance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/asm/asm-parent/3.3.1/asm-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/asm/asm-parent/3.3.1/asm-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/asm/asm/3.3.1/asm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/asm/asm/3.3.1/asm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/commons-codec/commons-codec/1.11/commons-codec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/commons-codec/commons-codec/1.11/commons-codec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.5/commons-io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.5/commons-io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/commons-io (1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/commons-io/commons-io/2.6/commons-io (1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.m2/repository/mysql/mysql-connector-java/8.0.30/mysql-connector-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/account/src/test/java/com/example/account/AccountApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/test/java/com/example/account/AccountApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/person/src/test/java/com/example/person/PersonApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/person/src/test/java/com/example/person/PersonApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Fys8NR8B8bvogJisJbl40YjxNV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.AccountApplicationTests.testAddAccountIfEmpty">
+    <configuration name="AccountApplicationTests.showAllAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.account" />
+      <option name="MAIN_CLASS_NAME" value="com.example.account.AccountApplicationTests" />
+      <option name="METHOD_NAME" value="showAllAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountApplicationTests.testAddAccountIfEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="account" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.account" />
+      <option name="MAIN_CLASS_NAME" value="com.example.account.AccountApplicationTests" />
+      <option name="METHOD_NAME" value="testAddAccountIfEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonApplicationTests.shouldDeletePerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="person" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.person" />
+      <option name="MAIN_CLASS_NAME" value="com.example.person.PersonApplicationTests" />
+      <option name="METHOD_NAME" value="shouldDeletePerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonApplicationTests.showAllPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="person" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.person" />
+      <option name="MAIN_CLASS_NAME" value="com.example.person.PersonApplicationTests" />
+      <option name="METHOD_NAME" value="showAllPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonApplicationTests.testAddPersonEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="person" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.person.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.person" />
+      <option name="MAIN_CLASS_NAME" value="com.example.person.PersonApplicationTests" />
+      <option name="METHOD_NAME" value="testAddPersonEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="person" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.person.PersonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountApplicationTests.testAddAccountIfEmpty" />
+        <item itemvalue="JUnit.PersonApplicationTests.testAddPersonEmpty" />
+        <item itemvalue="JUnit.AccountApplicationTests.showAllAccount" />
+        <item itemvalue="JUnit.PersonApplicationTests.showAllPerson" />
+        <item itemvalue="JUnit.PersonApplicationTests.shouldDeletePerson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de1eb27b-cb3c-4b4b-8e28-c44bf4e4b0d7" name="Changes" comment="" />
+      <created>1665475499808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665475499808</updated>
+      <workItem from="1665475503334" duration="166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
