@@ -1,16 +1,14 @@
 package com.example.account.model;
 
-import javax.persistence.Column;
-import javax.persistence.Entity;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 import java.util.Calendar;
 
 @Entity
-@Table(name = "personModel")
+@Table(name = "accountModel")
 public class AccountModel {
     @Id
-    private String accNumber;
+    @GeneratedValue
+    private long accNumber;
 
     @Column(name = "accountType")
     private String accountType;
@@ -18,13 +16,13 @@ public class AccountModel {
     private String accountName;
     @Column(name = "balance")
     private String balance;
-    @Column(name = "date")
-    private Calendar date;
+    @Temporal(TemporalType.DATE)
+    private Calendar date = Calendar.getInstance();
 
     public AccountModel() {
     }
 
-    public AccountModel(String accNumber, String accountType, String accountName, String balance, Calendar date) {
+    public AccountModel(long accNumber, String accountType, String accountName, String balance, Calendar date) {
         this.accNumber = accNumber;
         this.accountType = accountType;
         this.accountName = accountName;
@@ -32,40 +30,40 @@ public class AccountModel {
         this.date = date;
     }
 
-    public String getAccNumber() {
+    public long getAccNumber() {
         return accNumber;
+    }
+
+    public void setAccNumber(long accNumber) {
+        this.accNumber = accNumber;
     }
 
     public String getAccountType() {
         return accountType;
     }
 
-    public String getAccountName() {
-        return accountName;
-    }
-
-    public String getBalance() {
-        return balance;
-    }
-
-    public Calendar getDate() {
-        return date;
-    }
-
-    public void setAccNumber(String accNumber) {
-        this.accNumber = accNumber;
-    }
-
     public void setAccountType(String accountType) {
         this.accountType = accountType;
+    }
+
+    public String getAccountName() {
+        return accountName;
     }
 
     public void setAccountName(String accountName) {
         this.accountName = accountName;
     }
 
+    public String getBalance() {
+        return balance;
+    }
+
     public void setBalance(String balance) {
         this.balance = balance;
+    }
+
+    public Calendar getDate() {
+        return date;
     }
 
     public void setDate(Calendar date) {

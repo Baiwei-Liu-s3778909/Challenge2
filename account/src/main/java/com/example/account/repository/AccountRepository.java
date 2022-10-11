@@ -1,13 +1,10 @@
 package com.example.account.repository;
 
+import com.example.account.model.AccountModel;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-@SpringBootApplication
-public class AccountRepository {
-
-    public static void main(String[] args) {
-        SpringApplication.run(AccountRepository.class, args);
-    }
+public interface AccountRepository extends JpaRepository<AccountModel, Long>{
 
 }
