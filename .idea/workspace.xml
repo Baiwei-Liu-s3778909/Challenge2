@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="de1eb27b-cb3c-4b4b-8e28-c44bf4e4b0d7" name="Changes" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -13,14 +15,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_30.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/account/src/main/java/com/example/account/model/AccountModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/account/src/main/java/com/example/account/model/AccountModel.java" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/person/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/person/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/person/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/person/.idea/person.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/person/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/person/person.iml" beforeDir="false" />
+
       <change beforePath="$PROJECT_DIR$/person/src/main/java/com/example/person/model/PersonModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/person/src/main/java/com/example/person/model/PersonModel.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +46,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+
   <component name="ProjectId" id="2Fys8NR8B8bvogJisJbl40YjxNV" />
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,18 +58,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+
     "WebServerToolWindowFactoryState": "false"
+
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+
       <changelist id="de1eb27b-cb3c-4b4b-8e28-c44bf4e4b0d7" name="Changes" comment="" />
       <created>1665475499808</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665475499808</updated>
       <workItem from="1665475503334" duration="166000" />
+
     </task>
     <servers />
   </component>
